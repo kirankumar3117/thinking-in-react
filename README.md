@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Thiking-in-react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+About state , props and order approach 
 
-## Available Scripts
+used top-down approach 
 
 In the project directory, you can run:
 
